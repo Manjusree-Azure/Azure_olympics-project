@@ -37,4 +37,11 @@ Data Analytics: Implementing analytics and reporting to generate insights, such 
 # optimization
 Optimization: Ensuring the system handles large volumes of data efficiently and is capable of real-time data processing during live events using powerBI or Tableu.
 
+# Goal of this project:
+It offers me handson experience about real time projects.
+Analyze athlete performance trends over time.
+Track medal counts and rankings for each Olympic event.
+Predict future trends in Olympic sports using historical data.
+Provide data-driven reports and insights for stakeholders (e.g., Olympic committees, sponsors).
+
 
