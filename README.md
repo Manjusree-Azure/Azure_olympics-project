@@ -18,19 +18,19 @@ AURE DATA FACTORY PIPELINE
 ![ADF](https://github.com/Manjusree-Azure/Azure_olympics-project/blob/main/ADF%20pipeline_olympic.png)
 
 
-
-
-
-
 # Data Tranformation:
 
 Data Transformation: Cleaning, transforming, and organizing the raw data into structured formats, making it ready for analysis using Databricks and store the curated data in Azure dadalake gen2.
+
+![Databricks](https://github.com/Manjusree-Azure/Azure_olympics-project/blob/main/olympic%20data%20transformation.ipynb)
+
 
 # Data Storage:
 Data Storage: Utilizing scalable storage solutions Azure Data Lake gen2 to store both raw and processed data.
 
 # Data Analysis:
 Data Analytics: Implementing analytics and reporting to generate insights, such as medal predictions, athlete performance trends, and country-wise statistics using Azure synapse analytics, here i used SQL for data querying and analysis.
+
 
 # optimization
 Optimization: Ensuring the system handles large volumes of data efficiently and is capable of real-time data processing during live events using powerBI or Tableu.
