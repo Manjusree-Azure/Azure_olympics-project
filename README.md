@@ -7,7 +7,8 @@ The Olympic Data Engineering Project aims to build a scalable and efficient data
 # Data collection
 
 Data Collection: Ingesting CSV files from My Github(Source dataset from Kaggele) repository to Azure datalake Gen2 and ingested the data using Azure data factory.
-![Architecture](https://github.com/Manjusree-Azure/Azure_olympics-project/blob/main/Tokyo%20Olympics%20Architecture.png)
+![Resurce setup](https://github.com/Manjusree-Azure/Azure_olympics-project/blob/main/Resource%20setup_olympic.png)
+
 
 # Data Tranformation:
 
