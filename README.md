@@ -2,7 +2,7 @@
 
 The Olympic Data Engineering Project aims to build a scalable and efficient data pipeline that collects, processes, and analyzes Olympic Games data. The main objectives include:
 
-![Architecture]([images/arch.png](https://github.com/Manjusree-Azure/Azure_olympics-project/blob/main/Tokyo%20Olympics%20Architecture.png))
+![Architecture]((https://github.com/Manjusree-Azure/Azure_olympics-project/blob/main/Tokyo%20Olympics%20Architecture.png))
 
 # Data collection
 
