@@ -15,6 +15,10 @@ AZURE DATA LAKE GEN2
 
 AURE DATA FACTORY PIPELINE
 
+![ADF](https://github.com/Manjusree-Azure/Azure_olympics-project/blob/main/ADF%20pipeline_olympic.png)
+
+
+
 
 
 
